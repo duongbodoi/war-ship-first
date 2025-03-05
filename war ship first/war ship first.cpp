@@ -64,5 +64,5 @@ int main()
         }
         
     }
-    
+    cout << "charge";
 }
